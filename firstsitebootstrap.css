@@ -1,0 +1,35 @@
+.col-md-2 {
+	background-color: rgba(0, 8, 22, 0.2)
+}
+.jumbotron {
+	background-image: url("http://befunkycartoonizer.s3.amazonaws.com/C3154280-1415387819706663large.jpg");
+	
+	background-repeat: repeat-x;
+	min-height: 200px;
+	padding-bottom: 0px;
+}
+h1 {
+	font-family: 'Ribeye Marrow', cursive;
+	font-size: 170px;
+	text-align: center;
+}
+p {
+	text-align: center;
+	padding-top: 50px;
+}
+body {
+	background-image: url('bgnoise_lg.png');
+	font-family: 'Comfortaa', cursive;
+	font-size: 22px;
+	color: #aaaaaa;	
+}
+ul {
+	list-style-type: none;
+	padding-top: 100px;
+	padding-left: 0px;
+	text-align: center;
+}
+ul li {
+	padding: 40px 0px 0px;
+	color: white;
+}
